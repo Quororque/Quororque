@@ -5,10 +5,11 @@ Below you will find a list of the tabletop campaigns I hosted for the FaceplateV
 
 ## Campaign Archives (sorted by latest)
 
-⚠️ Licensing disclaimer for archives: This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); you are free to share, copy, redistribute, remix, transform, and build upon the material for any purpose, including commercial use, provided that you give appropriate credit to the original creator, include a link to the license, and indicate if changes were made, without implying endorsement by the licensor. Attribution should be given as **"Quororque of FaceplateVTT"** (sans quotes) where reasonable.  
+<sub>ℹ️ Licensing disclaimer for archives: This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); you are free to share, copy, redistribute, remix, transform, and build upon the material for any purpose, including commercial use, provided that you give appropriate credit to the original creator, include a link to the license, and indicate if changes were made, without implying endorsement by the licensor. Attribution should be given as **"Quororque of FaceplateVTT"** (sans quotes) where reasonable.  </sub>
 
-This license applies **only to original content created by the author.** ‘Delta Green’ and all related names, settings, concepts, and intellectual property are owned by Arc Dream Publishing and are not included in this license. No claim of ownership is made over these properties, and their use here is for descriptive and non-exclusive purposes only. Any trademarks or copyrighted material belonging to Arc Dream Publishing remain the property of their respective owners.
+<sub>ℹ️ This license applies **only to original content created by the author.** ‘Delta Green’ and all related names, settings, concepts, and intellectual property are owned by Arc Dream Publishing and are not included in this license. No claim of ownership is made over these properties, and their use here is for descriptive and non-exclusive purposes only. Any trademarks or copyrighted material belonging to Arc Dream Publishing remain the property of their respective owners.</sub>
 
+  
 
 ⚠️ **Every entry in this list is extremely offensive and unsafe for all audiences. Viewer discretion is advised.**
 
@@ -26,7 +27,7 @@ A light-hearted one chapter campaign I ran in order to gain experience with Foun
 
 ## Resources (welcome to use)
 
-⚠️ Licensing disclaimer for resources: This work is licensed under the GNU General Public License v3.0 (GPLv3); you may copy, modify, and redistribute it for any purpose, including commercial use, provided that any derivative works are also licensed under GPLv3, the complete corresponding source code is made available, and all original copyright notices and license terms are preserved. Attribution should be given as **"Quororque of FaceplateVTT"** (sans quotes) where reasonable.  
+<sub> ℹ️Licensing disclaimer for resources: This work is licensed under the GNU General Public License v3.0 (GPLv3); you may copy, modify, and redistribute it for any purpose, including commercial use, provided that any derivative works are also licensed under GPLv3, the complete corresponding source code is made available, and all original copyright notices and license terms are preserved. Attribution should be given as **"Quororque of FaceplateVTT"** (sans quotes) where reasonable.  </sub>
 
 - Combat Tokens by FaceplateVTT  
 https://github.com/Quororque/CombatTokensByFaceplateVTT  
