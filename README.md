@@ -9,7 +9,7 @@ Below you will find a list of the tabletop campaigns I hosted for the FaceplateV
 
 <sub>ℹ️ This license applies **only to original content created by the author.** ‘Delta Green’ and all related names, settings, concepts, and intellectual property are owned by Arc Dream Publishing and are not included in this license. No claim of ownership is made over these properties, and their use here is for descriptive and non-exclusive purposes only. Any trademarks or copyrighted material belonging to Arc Dream Publishing remain the property of their respective owners.</sub>  
   
-⚠️ **Every entry in this list is extremely offensive and unsafe for all audiences. Viewer discretion is advised.**
+⚠️ **Every entry in this list is extremely offensive and unsafe for all audiences. (+18) Viewer discretion is advised.**
 
 - God's Teeth by FaceplateVTT (January 4, 2026 - Ongoing)  
 https://github.com/Quororque/GodsTeeth-FaceplateVTT-Public  
