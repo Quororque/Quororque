@@ -5,7 +5,9 @@ Below you will find a list of the tabletop campaigns I hosted for the FaceplateV
 
 ## Campaign Archives (sorted by latest)
 
-⚠️ Every entry in this list is extremely offensive and unsafe for all audiences.
+⚠️ Licensing disclaimer for archives: This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); you are free to share, copy, redistribute, remix, transform, and build upon the material for any purpose, including commercial use, provided that you give appropriate credit to the original creator, include a link to the license, and indicate if changes were made, without implying endorsement by the licensor. The licensor asks be to referred to as **"Quororque of FaceplateVTT"** in this disclosure.
+
+⚠️ Every entry in this list is extremely offensive and unsafe for all audiences. Viewer discretion is advised.
 
 - God's Teeth by FaceplateVTT (January 4, 2026 - Ongoing)  
 https://github.com/Quororque/GodsTeeth-FaceplateVTT-Public  
@@ -21,7 +23,7 @@ A light-hearted one chapter campaign I ran in order to gain experience with Foun
 
 ## Resources (welcome to use)
 
-⚠️ Licensing disclaimer: Every repository listed below is dual-licensed, meaning you may use, modify, and distribute it under either the terms of the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** or the **GNU General Public License version 3 (GPLv3)**, at your option, provided you comply fully with the terms and conditions of the license you choose to apply, including giving appropriate credit to the original creator. The creator asks be to referred to as **"Quororque of FaceplateVTT"** in this disclosure.
+⚠️ Licensing disclaimer for resources: This work is licensed under the GNU General Public License v3.0 (GPLv3); you may copy, modify, and redistribute it for any purpose, including commercial use, provided that any derivative works are also licensed under GPLv3, the complete corresponding source code is made available, and all original copyright notices and license terms are preserved. The licensor asks be to referred to as **"Quororque of FaceplateVTT"** in this disclosure.
 
 - Combat Tokens by FaceplateVTT  
 https://github.com/Quororque/CombatTokensByFaceplateVTT  
