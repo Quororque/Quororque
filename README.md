@@ -7,7 +7,7 @@ Below you will find a list of the tabletop campaigns I hosted for the FaceplateV
 
 ⚠️ Licensing disclaimer for archives: This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0); you are free to share, copy, redistribute, remix, transform, and build upon the material for any purpose, including commercial use, provided that you give appropriate credit to the original creator, include a link to the license, and indicate if changes were made, without implying endorsement by the licensor. The licensor asks be to referred to as **"Quororque of FaceplateVTT"** in this disclosure.
 
-⚠️ Every entry in this list is extremely offensive and unsafe for all audiences. Viewer discretion is advised.
+⚠️ **Every entry in this list is extremely offensive and unsafe for all audiences. Viewer discretion is advised.**
 
 - God's Teeth by FaceplateVTT (January 4, 2026 - Ongoing)  
 https://github.com/Quororque/GodsTeeth-FaceplateVTT-Public  
