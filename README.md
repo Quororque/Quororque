@@ -21,6 +21,8 @@ A light-hearted one chapter campaign I ran in order to gain experience with Foun
 
 ## Resources (welcome to use)
 
+Licensing disclaimer: Every repository listed below is dual-licensed, meaning you may use, modify, and distribute it under either the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0) or the GNU General Public License version 3 (GPLv3), at your option, provided you comply fully with the terms and conditions of the license you choose to apply, including giving appropriate credit to the original creator. The creator asked be to referred to as **"Quororque of FaceplateVTT"** in this disclosure.
+
 - Combat Tokens by FaceplateVTT  
 https://github.com/Quororque/CombatTokensByFaceplateVTT  
 Combat token overlays ready to be used, inspired by DoorKickers (2014) sprites and created with the help of ChatGPT. I would love to hire a real professional artist to remake this entire thing some time in the future, but for now, this is the most my budget could spare.
