@@ -23,10 +23,10 @@ Oneshot based on the 2019 shotgun scenario by mellonbread and William Roy. Inclu
 
 <sub> ℹ️Licensing disclaimer for resources: This work is licensed under the GNU General Public License v3.0 (GPLv3); you may copy, modify, and redistribute it for any purpose, including commercial use, provided that any derivative works are also licensed under GPLv3, the complete corresponding source code is made available, and all original copyright notices and license terms are preserved. Attribution should be given as **"Quororque of FaceplateVTT"** (sans quotes) where reasonable.  </sub>
 
-- Delta Green: Hide Breaking Point by FaceplateVTT
-https://github.com/Quororque/dg-hide-breaking-point
-A small Foundry VTT module for the Delta Green system. For non-GM users, the Breaking Point counter on agent sheets is hidden. GM/Handler users continue to see the counter normally.
-
+- Delta Green: Hide Breaking Point by FaceplateVTT  
+https://github.com/Quororque/dg-hide-breaking-point  
+A small Foundry VTT module for the Delta Green system. For non-GM users, the Breaking Point counter on agent sheets is hidden. GM/Handler users continue to see the counter normally.  
+  
 - Combat Tokens by FaceplateVTT  
 https://github.com/Quororque/CombatTokensByFaceplateVTT  
 Combat token overlays ready to be used, inspired by DoorKickers (2014) sprites and created with the help of ChatGPT. I would love to hire a real professional artist to remake this entire thing some time in the future, but for now, this is the most my (non-existent) budget could spare.
