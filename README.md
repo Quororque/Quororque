@@ -11,7 +11,7 @@ Below you will find a list of the tabletop campaigns I hosted for the FaceplateV
   
 ⚠️ **Every entry in this list is extremely offensive and unsafe for all audiences. (+18) Viewer discretion is advised.**
 
-- God's Teeth by FaceplateVTT (January 4, 2026 - Ongoing)  
+- God's Teeth by FaceplateVTT (January 4, 2026 - October 9, 2026)  
 https://github.com/Quororque/GodsTeeth-FaceplateVTT-Public  
 The most disturbing tabletop campaign ever written, reinterpreted for FaceplateVTT table. What will become of the Teeth?  
 
